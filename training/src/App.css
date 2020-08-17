@@ -1,0 +1,29 @@
+#header {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-weight: bolder; 
+}
+
+#content {
+  background-color: mediumorchid;
+  text-align: center;
+}
+
+#footer {
+  background-color: seagreen;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+  font-weight: bolder;
+  font-size:xx-large;
+}
+
+.left {
+  text-align: left;
+}
