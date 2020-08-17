@@ -8,7 +8,7 @@ export default function ContentComponent() {
 <br />
 <br />
 <br />
-<p>Empty Content</p>
+<p>Empty Content is groovy</p>
 <br />
 <br />
 <br />
